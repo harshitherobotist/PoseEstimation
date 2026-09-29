@@ -29,7 +29,7 @@ For a small test run, Ultralytics' `coco8-pose.yaml` can be used.
 ## Installation
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/harshitherobotist/PoseEstimation.git
 cd human_pose_estimation_project
 
 python -m venv .venv
