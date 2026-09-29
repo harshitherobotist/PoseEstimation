@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# ML artifacts
+runs/
+weights/
+*.pt
+*.onnx
+*.engine
+*.pth
+
+# Large datasets
+datasets/
+coco/
+coco-pose/
+*.zip
+
+# Generated results
+outputs/predictions/
+outputs/ultralytics/
+outputs/cache/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
